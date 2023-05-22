@@ -13,7 +13,6 @@
 
 <p align="left"> <img height="auto" src="https://github-profile-trophy.vercel.app/?username=suvramukherjee842&theme=oldie&column=6&no-frame=false&no-bg=false&margin-w=19&margin-h=19" alt="image" /> </p>
 
-- 💪🏼 Working on [Github Profile Readme Generator](https://github.com/)
 
 - 🌱 I’m currently learning **Web Development**
 
