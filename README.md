@@ -1,6 +1,5 @@
 
-
-![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Suvra%20Mukherjee%20😊&text2=Web%20%20Developer,%20Artist&width=900&height=400)
+![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Suvra%20Mukherjee%20%F0%9F%99%82&text2=%F0%9F%92%96%20A%20Passionate%20Coder,Developer%20and%20Debugger&width=900&height=400)
 
 
 <img height="auto" src="https://komarev.com/ghpvc/?username=suvramukherjee842&label=Profile%20views&color=0e75b6&style=flat" alt="profile-radme-generator" />
@@ -14,13 +13,13 @@
 <p align="left"> <img height="auto" src="https://github-profile-trophy.vercel.app/?username=suvramukherjee842&theme=oldie&column=6&no-frame=false&no-bg=false&margin-w=19&margin-h=19" alt="image" /> </p>
 
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning *Web Development*
 
-- 💬 Ask me about **HTML CSS**
+- 💬 Ask me about *HTML CSS*
 
-- 😂 Func Fact **Bats are the only mammal that can actually fly.**
+- 😂 Func Fact *Bats are the only mammal that can actually fly.*
 
-- 📫 How to reach me **mukherjeesuvra03@gmail.com**
+- 📫 How to reach me *mukherjeesuvra03@gmail.com*
 
 <h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://github.com/suvramukherjee842" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg alt="profile-radme-generator" height="30" width="40" /></a> <a href="https://linkedin.com/in/suvra-mukherjee-70ab51229" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg alt="profile-radme-generator" height="30" width="40" /></a> <a href="https://fb.com/sweta.mukherjee.1884" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg alt="profile-radme-generator" height="30" width="40" /></a> <a href="https://instagram.com/_.essthizm._" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg alt="profile-radme-generator" height="30" width="40" /></a> </p>
 
